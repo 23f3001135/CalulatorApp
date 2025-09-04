@@ -75,8 +75,8 @@ pip install prettytable
 
 ## License
 
-This project is licensed under the MIT License.
+Personal Project.
 
 ## Author
 
-Namana Arzoo
+Namana Aarzoo
